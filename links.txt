@@ -1,0 +1,176 @@
+Utilities=>
+
+Check difference between two files content 		=> https://www.diffchecker.com
+Compress images								 	=> https://compressjpeg.com/
+Get Information based on IP address 			=> http://www.geoplugin.net/xml.gp?ip=69.18.13.23
+Generators for wordpress 						=> https://generatewp.com/generator/
+EMI Calculator 									=> https://ncalculators.com/mortgage/emi-calculator.htm
+Video merger									=> https://www.onlineconverter.com/merge-video
+Image editor									=> https://pixlr.com/
+
+Issues=>
+
+Youtube Iframe Pause on scroll			=> https://stackoverflow.com/questions/25150423/how-can-i-pause-a-youtube-embed-when-a-user-scrolls-away
+Git Broken Pipe 						=> https://stackoverflow.com/a/54004358/10113819
+magento blank front issue 				=> https://magento.stackexchange.com/a/116398
+chrome youtube video autoplay Issues	=> https://stackoverflow.com/questions/50217075/youtube-autoplay-not-working-in-chrome 
+wp get all post related data 				=> https://stackoverflow.com/questions/22216276/display-all-post-meta-keys-and-meta-values-of-the-same-post-id-in-wordpress
+
+fancybox open content as popup 			=> https://codepen.io/fancyapps/pen/mqEqgr
+woo custom featured product fetch 		=> https://wpbeaches.com/displaying-featured-products-woocommerce/
+wpcf7 placeholder for select box 		=> https://stackoverflow.com/a/31170912
+
+twentynineteen comment form customize	=>  https://wordpress.stackexchange.com/questions/250243/customize-comment-form
+
+
+Guides=>
+
+Dot Navigation			=> https://codyhouse.co/gem/vertical-fixed-navigation
+
+Javascript use strict 	=> https://johnresig.com/blog/ecmascript-5-strict-mode-json-and-more/
+
+Progress report ajax	=> https://stackoverflow.com/questions/21509325/jquery-ajax-file-upload-with-progress-hangs
+
+Getting CORS working => https://remysharp.com/2011/04/21/getting-cors-working/
+
+Static server v/s Dynamic srver rendering => https://frontarm.com/james-k-nelson/static-vs-server-rendering/
+
+Deploying react application residing in a subdirectory:	
+								=> https://medium.com/@svinkle/how-to-deploy-a-react-app-to-a-subdirectory-f694d46427c1
+
+Google map embed shifted center 	=> https://stackoverflow.com/questions/20138395/how-do-you-shift-the-centre-of-the-map-in-an-embedded-google-map
+
+Setting bash profile for sublime text3 => https://stackoverflow.com/questions/32282847/opening-sublime-text-from-windows-git-bash
+alias 'subl="/c/Program Files/Sublime Text 3/subl.exe"'
+
+OctoberCMS guides 				=> https://octobercms.com/support/articles/tutorials 
+
+
+
+http vs https => https://www.instantssl.com/https-tutorials-ssl-certificates
+
+get store confi info => https://stackoverflow.com/a/5222003/10113819
+
+
+
+composer create-project --repository=https://repo.magento.com/ magento/project-community-edition /var/www/html/magento5 3
+
+Changing OScommerce admin folder => https://forums.oscommerce.com/topic/209071-install-guide-securing-the-admin-folder/
+
+Fancybox popup multi line description => https://stackoverflow.com/a/9893678
+
+magento newsletter integration => https://magento.stackexchange.com/a/142498
+
+round range selector => https://roundsliderui.com/download.html
+
+wix add product gallery: https://support.wix.com/en/article/adding-a-product-gallery-to-your-store
+
+Adding pages to squirrelcart => https://www.squirrelcart.com/help/6.0.0/Content_-_Adding_to_Storefront_Home_Page.html
+
+Fetch links in squirrelcart => https://www.squirrelcart.com/help/4.5.0/Links_-_Overview.html
+
+Wordpress media upload embed in plugin => https://www.inkthemes.com/code-to-integrate-wordpress-media-uploader-in-plugintheme/
+
+Proper Laravel paypal integration => https://quickadminpanel.com/blog/paypal-payments-in-laravel-the-ultimate-guide/
+
+How to develop a startup idea 	=> https://medium.com/swlh/how-to-develop-a-great-startup-idea-5e55f9fedbf2
+
+Facebook embed=>
+https://developers.facebook.com/docs/plugins/comments/#configurator
+https://elfsight.com/facebook-feed-widget/create/
+https://apps.elfsight.com/panel/applications/facebook-feed/edit/c720236e-f640-4109-925d-b0660346f3d4/ 
+
+
+
+
+
+Miscel.=>
+
+squirrelcart admin 		=> /squirrelcart/index.php
+Automated login			=> http://blog.andyhunt.info/2011/12/21/using-php-and-curl-to-log-in-to-a-website/	
+Php web scraping guide 	=> http://simplehtmldom.sourceforge.net/manual.htm
+Web scraping 			=> https://www.endpoint.com/blog/2016/07/07/scrape-web-content-with-php-no-api-no
+						=> https://stackoverflow.com/questions/11171713/scrape-a-site-content-with-a-secure-login
+						=> http://thisinterestsme.com/php-login-to-website-with-curl/
+ASP .NET CSRF prevention	=> http://blog.stevensanderson.com/2008/09/01/prevent-cross-site-request-forgery-csrf-using-aspnet-mvcs-antiforgerytoken-helper/
+GITHUB ssh conf => https://gist.github.com/adamjohnson/5682757
+Send Mail using gmail smtp => https://support.google.com/a/answer/176600
+Share data from one domain to another
+						=> https://levelup.gitconnected.com/share-localstorage-sessionstorage-between-different-domains-eb07581e9384 
+
+
+
+Creating Subdomain dynamically=> 
+
+
+
+
+Deleting Subdomain Dynamically => 
+
+
+
+===============================
+Language related
+===============================
+Php=>
+	https://www.php.net/manual/en/functions.returning-values.php#functions.returning-values.type-declaration (Jan 2020)
+		Example: 
+		public function newestBackup(): ?Backup
+		{
+			return $this->backups()->newest();
+		}
+	
+
+
+===============================
+Frameworks and Libraries related
+===============================
+
+NodeJs => 
+	Cookies => https://www.geeksforgeeks.org/http-cookies-in-node-js/
+	Session => https://codeforgeek.com/manage-session-using-node-js-express-4/
+
+Wordpress =>
+	Divi theme library shortcode	=> https://almostinevitable.com/divi-tutorial-every-layout-shortcode/ OR use shortcode = [showmodule id="pageId"]
+	Custom theme pannel setting page=> https://www.sitepoint.com/create-a-wordpress-theme-settings-page-with-the-settings-api/
+
+JQuery 	=>
+	Two way range slider	=> https://api.jquerymobile.com/rangeslider/  
+	Ajax call progress bar  => https://github.com/likerRr/jq-ajax-progress/blob/master/src/jq-ajax-progress.js
+
+Magento => 
+	Magento2 Data migration guide => https://www.goivvy.com/blog/magento-2-migration
+	Custom country and state field in create account page => https://magecomp.com/blog/create-country-state-dropdown-in-magento-2-custom-frontend-form/
+	magento remove sample data => https://magento.stackexchange.com/a/132742 
+	tabs widget in magento => https://magento.stackexchange.com/questions/103082/how-to-use-tabs-widget-in-magento2
+	magento usefull resource => https://alanstorm.com/category/magento-2/#magento2-advanced-javascript
+	magento add links => http://magebase.com/magento-tutorials/quick-tip-using-the-store-template-directive-in-magento/
+
+REACTJS => 
+	Axios Progressreport		=> https://www.youtube.com/watch?v=XeiOnkEI7XI
+	Redirect with props 		=> https://stackoverflow.com/a/52064362/10113819
+	FileUpload 					=> https://appdividend.com/2018/03/23/react-js-laravel-file-upload-tutorial/
+	Google places autocomplete 	=> https://medium.com/@hamzaqaisrani/using-the-google-maps-places-autocomplete-javascript-api-in-a-react-project-5742bab4abc9
+
+	SSR(Server Side rendering)  => https://alligator.io/react/server-side-rendering/
+	SSR 						=> https://css-tricks.com/server-side-react-rendering/
+	SSR(Tested)					=> https://flaviocopes.com/react-server-side-rendering/
+
+	Meta title-keywords 		=> https://www.npmjs.com/package/react-document-meta
+	Noreferrer Noopenner 		=> https://support.performancefoundry.com/article/186-noopener-noreferrer-on-my-links
+
+Laravel=> 
+	Pass Extra Fields from router to controller which are not present in the uri 	=> https://github.com/laravel/framework/issues/8681
+	Making APIs (also shows unit testing) => https://medium.com/employbl/build-an-api-with-laravel-5-7-b3aa16ca2e69
+
+React Native => 
+	React Native latest node metro bundler issue solution=>
+	https://stackoverflow.com/questions/58760712/how-to-fix-metro-bundler-process-exited-with-code-1  
+	
+	Application not working in latest android issue(Http issue) => https://github.com/facebook/react-native/issues/11411#issuecomment-266335983
+
+	Instagram like bottom bar navigation => https://medium.com/@kartiksachdeva/creating-instagram-like-bottom-navigation-bar-using-react-native-97ba63771fea
+
+	Integrating redux with react native => 	https://alligator.io/react/react-native-redux/
+
+	Drawer Navigation 					=> https://medium.com/@mehulmistri/drawer-navigation-with-custom-side-menu-react-native-fbd5680060ba
