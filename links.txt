@@ -158,6 +158,7 @@ REACTJS =>
 
 	Meta title-keywords 		=> https://www.npmjs.com/package/react-document-meta
 	Noreferrer Noopenner 		=> https://support.performancefoundry.com/article/186-noopener-noreferrer-on-my-links
+	Using Redux			=> https://redux.js.org/basics/usage-with-react/
 
 Laravel=> 
 	Pass Extra Fields from router to controller which are not present in the uri 	=> https://github.com/laravel/framework/issues/8681
