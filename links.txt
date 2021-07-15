@@ -86,6 +86,7 @@ https://apps.elfsight.com/panel/applications/facebook-feed/edit/c720236e-f640-41
 
 Miscel.=>
 
+VSCode using GUI for merging/rebasing => https://stackoverflow.com/questions/30024353/how-to-use-visual-studio-code-as-default-editor-for-git
 squirrelcart admin 		=> /squirrelcart/index.php
 Automated login			=> http://blog.andyhunt.info/2011/12/21/using-php-and-curl-to-log-in-to-a-website/	
 Php web scraping guide 	=> http://simplehtmldom.sourceforge.net/manual.htm
