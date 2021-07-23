@@ -1,3 +1,9 @@
+Interview help materieals
+Javascript=>
+	Closures=> https://www.youtube.com/watch?v=t1nFAMws5FI
+	
+
+
 Utilities=>
 
 Check difference between two files content 		=> https://www.diffchecker.com
