@@ -1,6 +1,23 @@
 Concept learning material
 Javascript=>
 	Closures=> https://www.youtube.com/watch?v=t1nFAMws5FI
+	Akshay Saini Namaste JavaScript complete series: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+	JavaScript HTML DOM: https://www.youtube.com/watch?v=y17RuWkWdn8
+	JavaScript Event Listener: https://www.youtube.com/watch?v=XF1_MlZ5l6M
+	Javascript this keyword: https://www.youtube.com/watch?v=gvicrj31JOM
+	Debounce vs Throttling: https://www.youtube.com/watch?v=tJhA0DrH5co&t=570s
+	JavaScript Promises: https://www.youtube.com/watch?v=DHvZLI7Db8E&t=596s
+	Async vs Defer: https://www.youtube.com/watch?v=BMuFBYw91UQ
+	Object Oriented Programming Using JavaScript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+	CSS Selectors: https://www.youtube.com/watch?v=l1mER1bV0N0&t=907s
+	CSS Pseudo elements: https://www.youtube.com/watch?v=OtBpgtqrjyo
+	CSS Positioning: https://www.youtube.com/watch?v=jx5jmI0UlXU&t=318s
+	CSS Box Model: https://www.youtube.com/watch?v=rIO5326FgPE
+	CSS units (em, rem, px, %): https://www.youtube.com/watch?v=N5wpD9Ov_To
+	Render blocking: https://web.dev/render-blocking-resources/
+	Frontend Optimization: https://www.youtube.com/watch?v=sX7B4GghnqM
+	Some interview questions: https://www.youtube.com/watch?v=6Wzj7kxfRdI
+	https://www.youtube.com/watch?v=ZohZS6xLYE4
 	
 
 
